@@ -1,6 +1,8 @@
 
 import './App.css'
 import Work from './Components/Work/Work'
+import './Components/Button/Button.css'
+import './Components/Content/Content.css'
 
 function App() {
   return(

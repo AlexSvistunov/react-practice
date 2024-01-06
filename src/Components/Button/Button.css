@@ -1,0 +1,15 @@
+.work__btns {
+    display: flex;
+    gap: 15px;
+}
+
+
+.work__btn {
+    cursor: pointer;
+    text-transform: uppercase;
+    padding: 15px 20px;
+    font-size: 15px;
+    color: black;
+    background-color: aqua;
+    border: 1px solid black;
+}

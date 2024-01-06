@@ -1,0 +1,8 @@
+.work__content {
+    display: none;
+    font-size: 25px;
+}
+
+.work__content.work__content--active {
+    display: block;
+}

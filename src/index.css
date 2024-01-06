@@ -1,0 +1,14 @@
+body, html {
+    min-height: 100vh;
+}
+
+body {
+    height: 100%;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
